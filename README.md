@@ -86,10 +86,6 @@ Passionate about transforming data into meaningful insights and building modern 
 - Matplotlib
 - Google Colab
 
-### Repository
-
-👉 https://github.com/jhonnix/project-name
-
 ---
 
 ## 2️⃣ Excel Sales Dashboard
@@ -109,10 +105,6 @@ https://github.com/jhonnix/excel-dashboard/assets/demo.mp4
 - Power Query
 - Charts
 
-### Repository
-
-👉 https://github.com/jhonnix/excel-dashboard
-
 ---
 
 ## 3️⃣ Personal Portfolio Website
@@ -131,14 +123,6 @@ https://github.com/jhonnix/portfolio/assets/demo.mp4
 - CSS
 - JavaScript
 
-### Repository
-
-👉 https://github.com/jhonnix
-
-
-
-/portfolio
-
 ---
 
 ## 🏆 Certifications
@@ -153,22 +137,6 @@ https://github.com/jhonnix/portfolio/assets/demo.mp4
 
 <img width="368" height="251" alt="723406331_1046595704602677_1041646799841783420_n" src="https://github.com/user-attachments/assets/915de676-9444-47fd-b348-676603df0fbc" />
 
-
----
-
-## 🎯 2026 Goals
-
-✔ Build Professional Portfolio
-
-✔ Master SQL
-
-✔ Master Excel
-
-✔ Learn Power BI
-
-✔ Become a Data Analyst
-
-✔ Build Full Stack Projects
 
 ---
 
