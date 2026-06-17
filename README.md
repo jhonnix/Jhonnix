@@ -74,6 +74,12 @@ Passionate about transforming data into meaningful insights and building modern 
 
 ### 📷 Preview
 
+<img width="1744" height="664" alt="DataAnalytics_pythonVistual-Colab" src="https://github.com/user-attachments/assets/095bfc9e-ab66-4416-9b02-77ab54551052" />
+
+<img width="1732" height="748" alt="DataAnalytics-python-Colab(2)" src="https://github.com/user-attachments/assets/28010052-0c46-426e-8d6c-0737b3f7947a" />
+
+<img width="1790" height="704" alt="DataAnalytics-python-Colab" src="https://github.com/user-attachments/assets/b8b1fc42-fe37-42d0-ae4a-1d06a4f5da0f" />
+
 
 ### 🎥 Demo
 
@@ -94,9 +100,14 @@ Passionate about transforming data into meaningful insights and building modern 
 
 <img width="1024" height="357" alt="AI-in-2030-dataAnalytic" src="https://github.com/user-attachments/assets/07465e33-e1fa-4faf-a084-1671959fb584" />
 
+<img width="1041" height="475" alt="Pivot_DataAnalytics-jobAnalysis" src="https://github.com/user-attachments/assets/79bb22be-e54e-4282-9894-63718e642c0d" />
+
+
+
+
 ### 🎥 Demo
 
-https://github.com/jhonnix/excel-dashboard/assets/demo.mp4
+
 
 ### Skills Used
 
