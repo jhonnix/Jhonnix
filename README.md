@@ -1,95 +1,177 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Jhonn Peter III D. Capuyan</h1>
 
-###
+<h3 align="center">
+Aspiring Data Analyst | Front-End Developer | CyberSecurity
+</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-</div>
+<p align="center">
+Passionate about transforming data into meaningful insights and building modern web applications.
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jhonnix.jhonnix&"  />
-</div>
+## 🚀 About Me
 
-###
+🎓 Aspiring Data Analyst and Web Developer
 
-<h1 align="center">👋 Hi, I'm Jhonn Peter<br><br>💻 Aspiring Cybersecurity Professional | Ethical Hacking Enthusiast | Data Analytics Learner</h1>
 
-###
 
-<h3 align="left">🚀 About Me</h3>
+📫 Contact Me:
+- [LinkedIn: YOUR_LINKEDIN](https://www.linkedin.com/in/jhonn-peter-capz-4a9133272/?skipRedirect=true)
+- Email: jhonnpetercapz@gmail.com
 
-###
+---
 
-<p align="left">I'm Jhonn peter lll D Capuyan from Philippines<br><br>I am passionate about cybersecurity, ethical hacking, and data analytics. I enjoy learning how systems work, analyzing data, and identifying security vulnerabilities to help build safer digital environments.<br><br>🔐 Learning Ethical Hacking & Cybersecurity<br>📊 Studying Data Analytics and Data Visualization<br>🐧 Practicing with Kali Linux security tools<br>🌐 Background in HTML, CSS, and basic JavaScript<br>🎯 Goal: Become a Cybersecurity Analyst / Data Analyst<br><br>📚 Currently Learning<br>- Penetration Testing Techniques<br>- Cyber Threat Monitoring<br>- SQL for Data Analytics<br>- Python for Data Analysis<br>- Security Information and Event Management (SIEM)<br><br>🧪 Projects<br>Here are some projects I'm working on:<br>🔹 Cybersecurity Labs<br>Practicing penetration testing and security tools using Kali Linux.<br>🔹 Network Monitoring Research<br>Studying tools like Snort for detecting suspicious network activity.<br>🔹 Data Analytics Practice<br>Analyzing datasets and creating insights using spreadsheets and analytical tools.<br>🔹 Web Development Projects<br>Building responsive websites using HTML and CSS.<br><br>🎯 Career Interests<br>- Cybersecurity Analyst<br>- Ethical Hacker / Penetration Tester<br>- Threat Monitoring Analyst<br>- Data Analyst</p>
+## 🛠 Tech Stack
 
-###
+### Data Analytics
 
-<h3 align="left">🛠️ Skills & Tools<br>- Cybersecurity<br>- Network Security Basics<br>- Vulnerability Assessment<br>- Ethical Hacking Fundamentals<br>- Security Monitoring<br>- Data Analytics<br>- Data Cleaning<br>- Data Visualization<br>- Basic Data Analysis<br>- Tools & Technologies<br>- Kali Linux<br>- Wireshark<br>- Snort<br>- Excel / Spreadsheets<br>- HTML & CSS</h3>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+### Web Development
 
-###
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 🔐 Cybersecurity
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jhonnix&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-###
+---
+### 🛠 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnix&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnix&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 1️⃣ Data Analytics Career Impact Dashboard
+
+### 📷 Preview
+
+
+### 🎥 Demo
+
+[https://github.com/YOUR_USERNAME/project-name/assets/video.mp4](https://github.com/user-attachments/assets/bb02fa79-4ef6-4ecd-abcb-d02ac2e17963)
+
+### Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+### Repository
+
+👉 https://github.com/jhonnix/project-name
+
+---
+
+## 2️⃣ Excel Sales Dashboard
+
+### 📷 Preview
+
+<img width="1024" height="357" alt="AI-in-2030-dataAnalytic" src="https://github.com/user-attachments/assets/07465e33-e1fa-4faf-a084-1671959fb584" />
+
+### 🎥 Demo
+
+https://github.com/jhonnix/excel-dashboard/assets/demo.mp4
+
+### Skills Used
+
+- Pivot Tables
+- XLOOKUP
+- Power Query
+- Charts
+
+### Repository
+
+👉 https://github.com/jhonnix/excel-dashboard
+
+---
+
+## 3️⃣ Personal Portfolio Website
+
+### 📷 Preview
+
+
+### 🎥 Demo
+
+https://github.com/jhonnix/portfolio/assets/demo.mp4
+
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+### Repository
+
+👉 https://github.com/jhonnix
+
+
+
+/portfolio
+
+---
+
+## 🏆 Certifications
+
+- W3Schools HTML Certification
+- Data Analytics Projects
+- SQL Practice Projects
+
+<img width="772" height="517" alt="724292575_1767048327995416_5166386065278510236_n" src="https://github.com/user-attachments/assets/d24cfac7-f4be-4b1c-a811-fb6d88d20e77" />
+
+<img width="385" height="252" alt="723711954_1745244256659689_3044760269729261666_n" src="https://github.com/user-attachments/assets/2cb3b98d-73dd-4456-ad43-7fe1642c5e24" />
+
+<img width="368" height="251" alt="723406331_1046595704602677_1041646799841783420_n" src="https://github.com/user-attachments/assets/915de676-9444-47fd-b348-676603df0fbc" />
+
+
+---
+
+## 🎯 2026 Goals
+
+✔ Build Professional Portfolio
+
+✔ Master SQL
+
+✔ Master Excel
+
+✔ Learn Power BI
+
+✔ Become a Data Analyst
+
+✔ Build Full Stack Projects
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following me!
+</p>
